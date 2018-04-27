@@ -1,0 +1,9 @@
+/*INDEX BACKGROUND IMG*/
+#img-background{
+    background-image: url("../img/phone.jpg");
+    background-size: cover;
+    padding-bottom: 56.25%;
+    width: 100%;
+    position: relative;
+}
+ 
