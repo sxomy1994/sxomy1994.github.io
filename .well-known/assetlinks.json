@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.milosh.library",
+               "sha256_cert_fingerprints": ["2C:D7:E5:D3:20:BC:47:DB:AC:A0:1C:0F:C6:DA:59:15:73:85:0D:A1:13:A8:2B:03:2A:43:0B:5F:05:F5:1C:79"] }
+}]
